@@ -37,7 +37,7 @@ def bomb():
                                                                     `--' ''' + bcolors.ENDC
 
 
-os.system('clear')
+os.system'clear'
 try:
 	file1 = open('Banner.txt', 'r')
 	print(' ')
